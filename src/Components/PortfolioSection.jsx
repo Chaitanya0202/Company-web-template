@@ -21,7 +21,7 @@ const PortfolioSection = () => {
       {
         id: 1,
         title: 'Online Learning Platform',
-        imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlIOb9BFyQmIOzX3QIegE0hYufYkcKXfmtlnDbYQWbw&s',
+        imageUrl: 'https://media.licdn.com/dms/image/D4D12AQEdzKZMvmSYUQ/article-cover_image-shrink_600_2000/0/1688736045746?e=2147483647&v=beta&t=il2UhRiPnHUrLCdqbll9WSYkjEstQtIcjRPjEobj6Z4',
         description: 'A comprehensive online learning platform for students and educators.',
       },
       {
