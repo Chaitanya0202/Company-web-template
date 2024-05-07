@@ -7,6 +7,7 @@ import AboutUsSection from './Components/About';
 import ServiceSection from './Components/ServiceSection';
 import Footer from './Components/Footer';
 import PortfolioSection from './Components/PortfolioSection';
+import ContactSection from './Components/ContactSection';
 
 function App() {
   return (
