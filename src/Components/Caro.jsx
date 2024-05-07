@@ -4,20 +4,20 @@ import { Paper, Button } from "@mui/material";
 import HeroSection from "./HeroSection";
 
 const items = [
-  {
-    name: "Mountain View",
-    description: "Beautiful mountain landscape",
-    imageUrl: "https://source.unsplash.com/800x600/?mountains",
+   {
+    name: "Our Company Gallery",
+    description: "Small description About Company ",
+    imageUrl: "https://source.unsplash.com/800x600/?Software",
   },
   {
-    name: "Beach View",
-    description: "Sunny beach day",
-    imageUrl: "https://source.unsplash.com/800x600/?beach",
+    name: "Software Developer",
+    description: "Something About Our org Dev.",
+    imageUrl: "https://source.unsplash.com/800x600/?developer",
   },
   {
-    name: "Cityscape",
-    description: "Urban city skyline",
-    imageUrl: "https://source.unsplash.com/800x600/?city",
+    name: "Programmer",
+    description: "Wellcome In Programming world",
+    imageUrl: "https://source.unsplash.com/800x600/?error",
   },
 ];
 
