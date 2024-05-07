@@ -19,7 +19,7 @@ function App() {
           <Route exact path="/about" element={<AboutUsSection/>} />
           <Route exact path="/services" element={<ServiceSection/>} />
           <Route exact path="/portfolio" element={<PortfolioSection/>} />
-          
+          <Route exact path="/contact" element={<ContactSection/>} />
           </Routes>
           <Footer/>
       </div>
